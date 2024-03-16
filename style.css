@@ -503,7 +503,7 @@ main .fast-payment .badge{
 
 main .fast-payment .badge:hover{
   box-shadow: 0 0 1.5rem var(--color-primary-light);
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 
 main .fast-payment .badge:first-child span{
